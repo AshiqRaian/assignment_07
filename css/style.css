@@ -1,0 +1,22 @@
+.navbar-brand img{
+	width: 150px;
+	filter: drop-shadow(-4px 2px 2px black);
+}
+.section{
+	font-size: 25px;
+}
+.banner{
+	background-image: url(../images/boot.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: right bottom;
+}
+.carousel img{
+	height: 600px !important;
+}
+.car img{
+	height: 250px;
+}
+.footer p{
+	font-size: 20px;
+}
